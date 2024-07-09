@@ -1,5 +1,5 @@
 👋 Hi, I’m Peter, also known as @p-. I'm a security researcher at the [GitHub Security Lab](https://securitylab.github.com/). I've started out as a software engineer and have first hands experience what it means to protect applications against threats and fix vulnerabilities.
-I’m especially interested in vulnerabilities in implementations of authentication protocols and deserialization vulnerabilities. My main tool for querying source code is [CodeQL](https://codeql.github.com/).
+I’m especially interested in vulnerabilities in implementations of authentication protocols and deserialization vulnerabilities. My main tool for querying and identifying vulnerabilities in source code is [CodeQL](https://codeql.github.com/).
 
 Here are some **authentication related vulnerabilities** I've found:
 
