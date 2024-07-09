@@ -18,6 +18,6 @@ Excerpt of some **vulnerabilities due to unsafe deserialization** I've found - c
 
 - Publications:
     - My posts on the [GitHub Blog](https://github.blog/author/stockli/)
-    - 🗨️ Mastodon [@ulldma](https://infosec.exchange/@ulldma)
+    - 🗨️ Mastodon: [@ulldma](https://infosec.exchange/@ulldma)
     - 🗨️ Twitter/X: [@ulldma](https://twitter.com/ulldma)
 
