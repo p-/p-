@@ -1,5 +1,6 @@
-👋 Hi, I’m Peter, also known as @p- or @ulldma. I'm a security researcher at the [GitHub Security Lab](https://securitylab.github.com/). I've started out as a software engineer and have first hands experience what it means to protect applications against threats and fix vulnerabilities.
-I’m especially interested in vulnerabilities in implementations of authentication protocols and deserialization vulnerabilities. My main tools for querying and identifying vulnerabilities in source code are the [GitHub Security Lab Taskflow Agent](https://github.com/GitHubSecurityLab/seclab-taskflow-agent) and [CodeQL](https://codeql.github.com/).
+👋 Hi, I’m Peter, also known as @p- or @ulldma. I’m a security researcher at the GitHub Security Lab. I started my career as a software engineer, so I know firsthand what it takes to secure applications and fix vulnerabilities. My focus is on reducing attack surfaces and eliminating entire classes of vulnerabilities, with a particular interest in authentication protocol implementations and deserialization.
+
+Since early 2025, our team has been working on the GitHub Security Lab Taskflow Agent, bringing individual prompts and workflows together into structured, AI-assisted security audits.
 
 Here are some **authentication related vulnerabilities** I've found:
 
